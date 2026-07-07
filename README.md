@@ -200,7 +200,7 @@ Es poden proposar:
 
 # Llicència
 
-Aquest projecte és de codi obert. Pots utilitzar-lo, modificar-lo i distribuir-lo segons la llicència que decideixis incloure al repositori (per exemple, MIT).
+Aquest projecte és de codi obert. Pots utilitzar-lo, modificar-lo i distribuir-lo segons la llicència MIT inclosa al repositori.
 
 ---
 
